@@ -4,8 +4,6 @@ I'm a passionate developer currently **exploring** the mysterious realms of Java
 
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-Juan_Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-rodriguez-gasca/)](https://www.linkedin.com/in/juan-pablo-rodriguez-gasca/)
 
-[![Tweet](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1ca4_shields.io.svg)]()
-
 ---
 
 ### 🛠️ Lenguajes y herramientas
